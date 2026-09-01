@@ -1,7 +1,5 @@
 # Claude Fortune's Project Portfolio 💻
 
-**I am passionate about Cloud Computing, DevOps, and IT Support.** ☁️ <br/>
-
 Welcome to my **GitHub portfolio**, where I showcase my hands-on projects and continuous learning journey. <br />
 
 ---
@@ -14,23 +12,15 @@ Welcome to my **GitHub portfolio**, where I showcase my hands-on projects and co
 📂 **[helpdesk-ticketing-lab](https://github.com/Claudwin/helpdesk-ticketing-lab)**
 > *A working help desk built on Freshdesk, with tickets resolved against live Active Directory and Microsoft Azure lab environments.*
 
-
 ---
 
 ### 🛠️ Technical Skills
 
-* **Cloud Platforms** ☁️
-  * Azure (Entra ID, RBAC, Policy, VMs, Storage, CLI)
-* **Identity & Security** 🔒
-  * Active Directory / Entra ID, Group Policy, Conditional Access, CIS Benchmarks, Security Auditing
-* **Operating Systems** 💻
-  * Linux (Ubuntu, Rocky Linux), Windows Server 2022
-* **Scripting & Automation** 🤖
-  * Bash, PowerShell, Python, TypeScript, Power Automate
-* **Networking** 🌐
-  * TCP/IP, DNS, DHCP, VPNs, Subnetting, Network Security Groups (NSGs)
-* **Tools & Platforms** 🔧
-  * Git/GitHub, Microsoft 365, Jira, Confluence
+☁️ * **Cloud Platforms:** Azure (Entra ID, RBAC, Policy, VMs, Storage, CLI)
+💻 * **Windows:** Windows Server 2022, Active Directory, Group Policy
+🐧 * **Linux:** Rocky Linux / RHEL, Ubuntu
+🤖 * **Scripting & Automation:** PowerShell, Bash, Python, Power Automate
+🌐 * **Networking:** TCP/IP, DNS, DHCP, VPNs, Subnetting, Network Security Groups (NSGs)
 
 ---
 
