@@ -16,11 +16,11 @@ Welcome to my **GitHub portfolio**, where I showcase my hands-on projects and co
 
 ### 🛠️ Technical Skills
 
-☁️ * **Cloud Platforms:** Azure (Entra ID, RBAC, Policy, VMs, Storage, CLI)
-💻 * **Windows:** Windows Server 2022, Active Directory, Group Policy
-🐧 * **Linux:** Rocky Linux / RHEL, Ubuntu
-🤖 * **Scripting & Automation:** PowerShell, Bash, Python, Power Automate
-🌐 * **Networking:** TCP/IP, DNS, DHCP, VPNs, Subnetting, Network Security Groups (NSGs)
+☁️ **Cloud Platforms:** Azure (Entra ID, RBAC, Policy, VMs, Storage, CLI)<br/>
+💻 **Windows:** Windows Server 2022, Active Directory, Group Policy<br/>
+🐧 **Linux:** Rocky Linux / RHEL, Ubuntu<br/>
+🤖 **Scripting & Automation:** PowerShell, Bash, Python, Power Automate<br/>
+🌐 **Networking:** TCP/IP, DNS, DHCP, VPNs, Subnetting, Network Security Groups (NSGs)<br/>
 
 ---
 
